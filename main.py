@@ -5,7 +5,7 @@ import csv
 import re
 import os.path
 
-first_page = 201000000 #Начальная страница для интервала опроса
+first_page = 201001539 #Начальная страница для интервала опроса
 last_page = 201600000  #Конечная страница для интервала опроса
 pages = [i for i in range(first_page, last_page)]
 export_filename = f'export-{first_page}.csv'
@@ -39,7 +39,11 @@ for page in pages:
             results = description.split(',  ')
             for result in results:
                 a = result.split(': ')
-                tmp_dict.setdefault((a[0].rstrip()).lstrip().replace('"',''), (a[1].rstrip()).lstrip().replace('"',''))
+                if len(a)>1:
+                    tmp_dict.setdefault((a[0].rstrip()).lstrip().replace('"',''), (a[1].rstrip()).lstrip().replace('"',''))
+                # else:
+                #     tmp_dict.setdefault((a[0].rstrip()).lstrip().replace('"',''), (a[0].rstrip()).lstrip().replace('"',''))
+
             m = re.findall(r'\w*[-]\d\d?', tmp_dict['name'] )
             provider = 'Other'
             course = 'Other'
