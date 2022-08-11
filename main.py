@@ -8,14 +8,24 @@ import csv
 import re
 import os.path
 
-#Начальная страница для интервала опроса
-first_page = 201001539 
+# файл для записи номера последней успешнообработаной страницы
+log_file = 'log.txt'
+#Начальная страница для интервала опроса по-умолчанию
+first_page = 201003445 
+
+# Если существует файл лога, то номер первой страницы вычитывается из него
+if os.path.exists(log_file):
+    with open(log_file, 'r') as log:
+        data = log.read()
+        if data:
+            first_page = int(data)
+
 #Конечная страница для интервала опроса
 last_page = 201600000
 # Генерация списка для работы цикла
 pages = [i for i in range(first_page, last_page)]
 # Генерация имени файла для сохраннения результатов
-export_filename = f'export-{first_page}.csv'
+export_filename = f'export.csv'
 # Основной домен для перебора адресов 
 base_url = "https://kinescope.io/embed/"
 
@@ -88,7 +98,6 @@ for page in pages:
             with open(export_filename, 'a', encoding='utf-8') as f: 
                 w = csv.DictWriter(f, export.keys(),delimiter='\t')
                 w.writerow(export)
-            # Выводим адрес в консоль для наблюдения прогресса
-            print(url)
-
-        
+            # Записываем номер последней успешнообработанной страницы
+            with open(log_file, 'w') as log:
+                log.write(str(page))        
