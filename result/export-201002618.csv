@@ -1,0 +1,226 @@
+provider	URL	course	webinar_date	webinar_duration	webinare_title
+Other	https://kinescope.io/embed/201002618	Other	2022-03-30T11:09:50+00:00	PT58M47.576S	React
+Other	https://kinescope.io/embed/201002622	Other	2022-03-30T11:09:51+00:00	PT43M30.109S	Библиотека UI компонентов, о которой вы всегда мечтали / Роберт Харитонов (Liberty Global)
+Other	https://kinescope.io/embed/201002623	Other	2022-03-30T11:09:54+00:00	PT22M32.772S	17.Мини воронка продаж
+Other	https://kinescope.io/embed/201002624	Other	2022-03-30T11:09:55+00:00	PT15M58.845S	18.Воронка продаж без лид магнита
+Other	https://kinescope.io/embed/201002627	Other	2022-03-30T11:10:06+00:00	PT13M45.238S	19.Меню группы
+Other	https://kinescope.io/embed/201002628	Other	2022-03-30T11:10:06+00:00	PT15M8.319S	20.Другие разделы группы
+Other	https://kinescope.io/embed/201002636	Other	2022-03-30T11:10:48+00:00	PT4M18.648S	Видеоотчёт о HighLoad++ 2016 (первая версия)
+Other	https://kinescope.io/embed/201002638	Other	2022-03-30T11:10:48+00:00	PT56M37.15S	Cистемы с непосредственным жидкостным охлаждением / Василий Кирсанов (ТК Связь)
+Other	https://kinescope.io/embed/201002641	Other	2022-03-30T11:10:48+00:00	PT41M7.632S	Пайплайн машинного обучения на Apache Spark / Павел Клеменков (Rambler&amp;Co)
+Other	https://kinescope.io/embed/201002643	Other	2022-03-30T11:10:49+00:00	PT49M47.387S	Open Source SQL-базы данных вступили в эру млн. запросов в сек. / Ф.Сигаев, С.Смирнова, А.Распопина
+Other	https://kinescope.io/embed/201002645	Other	2022-03-30T11:10:49+00:00	PT52M30.298S	Sphinx 3.0 и RT-индексы на основном поиске Avito / Андрей Смирнов, Вячеслав Крюков (Avito)
+Other	https://kinescope.io/embed/201002651	Other	2022-03-30T11:10:49+00:00	PT47M50.985S	&quot;Распределенные&quot; вычисления на мобильных платформах / Денис Свинарчук (Московская Биржа)
+Other	https://kinescope.io/embed/201002655	Other	2022-03-30T11:10:49+00:00	PT52M52.473S	Превышаем скоростные лимиты с Angular 2 / Алексей Охрименко (IPONWEB)
+Other	https://kinescope.io/embed/201002657	Other	2022-03-30T11:10:50+00:00	PT56M50.501S	Хайлоад и безопасность в мире DevOps
+Other	https://kinescope.io/embed/201002659	Other	2022-03-30T11:10:50+00:00	PT54M54.842S	Масштабируя TLS / Артём Гавриченков (Qrator Labs)
+Other	https://kinescope.io/embed/201002661	Other	2022-03-30T11:10:50+00:00	PT37M5.424S	Неочевидные детали при запуске HTTPS в OK.Ru / Андрей Домась (Одноклассники)
+Other	https://kinescope.io/embed/201002671	Other	2022-03-30T11:10:51+00:00	PT43M31.317S	Собираем GPS-треки от водителей в такси раз в секунду, экономя трафик / Андрей Минкин (MadDevs)
+Other	https://kinescope.io/embed/201002673	Other	2022-03-30T11:10:51+00:00	PT52M40.817S	Linux Kernel Extension for Databases / Александр Крижановский (Tempesta Technologies)
+Other	https://kinescope.io/embed/201002681	Other	2022-03-30T11:10:51+00:00	PT41M44.83S	Как SRE следит за стабильностью и скоростью HeadHunter / Антон Иванов (HeadHunter)
+Other	https://kinescope.io/embed/201002683	Other	2022-03-30T11:10:51+00:00	PT55M59.231S	Выбираем СУБД для хранения временных рядов / Павел Филонов (Лаборатория Касперского)
+Other	https://kinescope.io/embed/201002685	Other	2022-03-30T11:10:52+00:00	PT53M34.943S	Sphinx 3.0, поиск 15 лет спустя / Андрей Аксенов (Sphinx)
+Other	https://kinescope.io/embed/201002687	Other	2022-03-30T11:10:52+00:00	PT56M33.736S	Семантическое ядро рунета - рекомендательная система Amazon Kinesis/Lucene / А.Сербул (1С-Битрикс)
+Other	https://kinescope.io/embed/201002703	Other	2022-03-30T11:10:53+00:00	PT50M13.417S	За счет чего Tarantool такой оптимальный / Денис Аникин (Mail.Ru)
+Other	https://kinescope.io/embed/201002707	Other	2022-03-30T11:10:53+00:00	PT50M43.626S	Быстрое прототипирование бэкенда игры с геолокацией / Александр Гладыш (LogicEditor)
+Other	https://kinescope.io/embed/201002711	Other	2022-03-30T11:10:53+00:00	PT47M23.725S	Язык Lua — секреты производительности / Ник Заварицкий (Mail.ru)
+Other	https://kinescope.io/embed/201002715	Other	2022-03-30T11:10:54+00:00	PT48M34.453S	Велосипед уже изобретен. Что умеют промышленные СХД? / Антон Жбанков (Nutanix)
+Other	https://kinescope.io/embed/201002719	Other	2022-03-30T11:10:54+00:00	PT45M10.489S	Highload на GPU, опыт Vinci / Олег Илларионов (ВКонтакте)
+Other	https://kinescope.io/embed/201002721	Other	2022-03-30T11:10:54+00:00	PT36M29.665S	Высокопроизводительный инференс глубоких сетей на GPU с помощью TensorRT / Максим Милаков (NVidia)
+Other	https://kinescope.io/embed/201002723	Other	2022-03-30T11:10:54+00:00	PT54M9.865S	Artisto
+Other	https://kinescope.io/embed/201002725	Other	2022-03-30T11:10:54+00:00	PT1H7M7.757S	Стратегия и тактика улучшения производительности BSS систем / О.Филатьев, П.Нашатырев (Yota)
+Other	https://kinescope.io/embed/201002729	Other	2022-03-30T11:10:55+00:00	PT48M45.274S	Виртуальный ЦОД для корпоративных клиентов / Д.Канаев (Caravan), Д.Лунев (Virtuozzo)
+Other	https://kinescope.io/embed/201002731	Other	2022-03-30T11:10:55+00:00	PT40M40.789S	Опыт построения СХД на базе Windows Server / Сергей Груздов (DataLine)
+Other	https://kinescope.io/embed/201002733	Other	2022-03-30T11:10:55+00:00	PT55M40.028S	RTB в телевизоре и на улицах / Михаил Мельников (IPONWEB)
+Other	https://kinescope.io/embed/201002735	Other	2022-03-30T11:10:55+00:00	PT51M56.978S	Anti-fraud solutions in RTB / Вадим Антонюк (IPONWEB)
+Other	https://kinescope.io/embed/201002737	Other	2022-03-30T11:10:55+00:00	PT49M8.052S	Как 100 000 раз в секунду выбирать правильный рекламный материал / П.Бейзман (Data-Centric Alliance)
+Other	https://kinescope.io/embed/201002743	Other	2022-03-30T11:10:56+00:00	PT49M19.987S	Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)
+Other	https://kinescope.io/embed/201002761	Other	2022-03-30T11:10:57+00:00	PT41M29.899S	Роман Гребенников — Страх и ненависть в распределенных системах
+Other	https://kinescope.io/embed/201002763	Other	2022-03-30T11:10:57+00:00	PT40M22.028S	Алексей Акулович — Архитектура растущего проекта на примере ВКонтакте
+Other	https://kinescope.io/embed/201002765	Other	2022-03-30T11:10:57+00:00	PT37M51.191S	Евгений Потапов и Антон Баранов — Преждевременная оптимизация архитектуры
+Other	https://kinescope.io/embed/201002767	Other	2022-03-30T11:10:57+00:00	PT45M4.707S	Наталия Ефремова — Нейронные сети
+Other	https://kinescope.io/embed/201002769	Other	2022-03-30T11:10:57+00:00	PT33M20.469S	Владимир Бородин — История успеха Яндекс.Почты с PostgreSQL
+Other	https://kinescope.io/embed/201002771	Other	2022-03-30T11:10:58+00:00	PT33M41.855S	Владимир Протасов — OpenResty
+Other	https://kinescope.io/embed/201002773	Other	2022-03-30T11:10:58+00:00	PT34M0.268S	Никита Духовный — Балансировка нагрузки и отказоустойчивость в Одноклассниках
+Other	https://kinescope.io/embed/201002775	Other	2022-03-30T11:10:58+00:00	PT42M37.539S	Александр Лебедев — Дизайн REST API для высокопроизводительных систем
+Other	https://kinescope.io/embed/201002777	Other	2022-03-30T11:10:58+00:00	PT30M18.587S	Слава Бахмутов — Особенности архитектуры распределённого хранилища в Dropbox
+Other	https://kinescope.io/embed/201002779	Other	2022-03-30T11:10:58+00:00	PT39M47.778S	Петр Зайцев — MySQL® и MongoDB® - когда что лучше использовать?
+Other	https://kinescope.io/embed/201002781	Other	2022-03-30T11:10:58+00:00	PT53M53.495S	Андрей Аксенов — Снесите это немедленно
+Other	https://kinescope.io/embed/201002783	Other	2022-03-30T11:10:59+00:00	PT53M56.421S	Вадим Мадисон — Микросервисы
+Other	https://kinescope.io/embed/201002787	Other	2022-03-30T11:10:59+00:00	PT52M4.06S	Александр Зайцев — Переезжаем на Yandex ClickHouse
+Other	https://kinescope.io/embed/201002789	Other	2022-03-30T11:10:59+00:00	PT47M13.973S	Валентин Гогичашвили — События, шины и интеграция данных в непростом мире микросервисов
+Other	https://kinescope.io/embed/201002791	Other	2022-03-30T11:10:59+00:00	PT40M46.734S	Олег Облеухов — Как сделать высоконагруженный сервис, не зная количество нагрузки
+Other	https://kinescope.io/embed/201002794	Other	2022-03-30T11:10:59+00:00	PT51M18.27S	Виктор Тарнавский — ClickHouse
+Other	https://kinescope.io/embed/201002796	Other	2022-03-30T11:10:59+00:00	PT52M39.075S	Иван Круглов — Архитектура поиска в Booking.com
+Other	https://kinescope.io/embed/201002800	Other	2022-03-30T11:11:00+00:00	PT45M13.345S	Как сделать ваш JavaScript быстрее / Роман Дворнов (Авито)
+Other	https://kinescope.io/embed/201002806	Other	2022-03-30T11:11:00+00:00	PT52M52.311S	Архитектура хранения и отдачи фотографий в Badoo / Артем Денисов (Badoo)
+Other	https://kinescope.io/embed/201002810	Other	2022-03-30T11:11:00+00:00	PT1H38M33.426S	Современные архитектуры диалоговых систем / Анатолий Востряков (Segmento)
+Other	https://kinescope.io/embed/201002818	Other	2022-03-30T11:11:01+00:00	PT33M15.454S	Архитектура и алгоритмы для индексации всей музыки ВКонтакте / Алексей Акулович (ВКонтакте)
+Other	https://kinescope.io/embed/201002826	Other	2022-03-30T11:11:02+00:00	PT56M47.111S	Что нового в nginx? / Максим Дунин (Nginx, Inc.)
+Other	https://kinescope.io/embed/201002834	Other	2022-03-30T11:11:02+00:00	PT56M27.908S	Опыт миграции между дата-центрами / Михаил Тюрин, Сергей Бурладян (Avito)
+Other	https://kinescope.io/embed/201002836	Other	2022-03-30T11:11:02+00:00	PT54M56.305S	Долгожданный релиз pg_pathman 1.0 / Александр Коротков
+Other	https://kinescope.io/embed/201002838	Other	2022-03-30T11:11:03+00:00	PT46M32.757S	Внутреннее устройство PostgreSQL / Григорий Смолкин, Сергей Петров (Postgres Professional)
+Other	https://kinescope.io/embed/201002842	Other	2022-03-30T11:11:03+00:00	PT53M53.588S	Зачем нужен мультимастер? / Илья Космодемьянский (PostgreSQL-Consulting LLC)
+Other	https://kinescope.io/embed/201002844	Other	2022-03-30T11:11:03+00:00	PT50M57.163S	PostgreSQL
+Other	https://kinescope.io/embed/201002851	Other	2022-03-30T11:11:03+00:00	PT59M9.844S	ELK
+Other	https://kinescope.io/embed/201002861	Other	2022-03-30T11:11:04+00:00	PT59M10.61S	Собираем Docker-образы быстро и удобно / Дмитрий Столяров (Флант)
+Other	https://kinescope.io/embed/201002865	Other	2022-03-30T11:11:05+00:00	PT48M20.475S	Как не положить тысячи серверов /  Дмитрий Самсонов (Одноклассники)
+Other	https://kinescope.io/embed/201002869	Other	2022-03-30T11:11:05+00:00	PT53M16.018S	Zabbix 3.2 - мониторинг качественно нового уровня / Алексей Владышев (Zabbix)
+Other	https://kinescope.io/embed/201002873	Other	2022-03-30T11:11:05+00:00	PT50M58.092S	5 способов деплоя PHP-кода в условиях хайлоада / Юрий Насретдинов (Badoo)
+Other	https://kinescope.io/embed/201002881	Other	2022-03-30T11:11:06+00:00	PT43M0.364S	Хочу знать, сколько посетителей было на сайте в прошлом /  Константин Игнатов (Qrator Labs)
+Other	https://kinescope.io/embed/201002883	Other	2022-03-30T11:11:06+00:00	PT28M7.72S	A/Б-тестирование
+Other	https://kinescope.io/embed/201002887	Other	2022-03-30T11:11:07+00:00	PT29M29.152S	Как FB, Apple и Google разрушают традиции в компьютерном бизнесе / Андрей Чернышев (Delta Solutions)
+Other	https://kinescope.io/embed/201002889	Other	2022-03-30T11:11:07+00:00	PT1H0M32.553S	Как смигрировать 50Пб в 32 без даунтайма? / Альберт Галимов, Андрей Сумин (Mail.ru)
+Other	https://kinescope.io/embed/201002895	Other	2022-03-30T11:11:07+00:00	PT46M39.793S	Peeking into the Black Hole Called PL/PGSQL - the New PL Profiler / Jan Wieck (OpenSCG)
+Other	https://kinescope.io/embed/201002901	Other	2022-03-30T11:11:08+00:00	PT44M56.557S	En, Evaluation of High Availability Performance of Kubernetes / Mathias Renner (Hypriot Ltd.)
+Other	https://kinescope.io/embed/201002903	Other	2022-03-30T11:11:08+00:00	PT30M12.109S	Хорошо поддерживаемое в продакшне приложение / Николай Сивко (okmeter.io)
+Other	https://kinescope.io/embed/201002909	Other	2022-03-30T11:11:08+00:00	PT52M0.6S	Как мы сделали PHP 7 в два раза быстрее PHP 5 / Дмитрий Стогов (Zend Technologies)
+Other	https://kinescope.io/embed/201002911	Other	2022-03-30T11:11:09+00:00	PT56M22.196S	Remote HighLoad / Андрей Смирнов
+Other	https://kinescope.io/embed/201002915	Other	2022-03-30T11:11:09+00:00	PT1H38M33.473S	Современные архитектуры диалоговых систем / Анатолий Востряков (Segmento)
+Other	https://kinescope.io/embed/201002917	Other	2022-03-30T11:11:09+00:00	PT4M18.648S	Видеоотчёт о HighLoad++ 2016
+Other	https://kinescope.io/embed/201002924	Other	2022-03-30T11:11:48+00:00	PT34M28.688S	Испытание поединком
+Other	https://kinescope.io/embed/201002929	Other	2022-03-30T11:11:48+00:00	PT3M0.327S	Российские интернет-технологии 2016 (РИТ++ 2016)
+Other	https://kinescope.io/embed/201002931	Other	2022-03-30T11:11:49+00:00	PT33M40.276S	Prometheus
+Other	https://kinescope.io/embed/201002933	Other	2022-03-30T11:11:49+00:00	PT49M2.99S	10 способов достижения HighLoad&#39;а и BigData на ровном месте/Илья Космодемьянский
+Other	https://kinescope.io/embed/201002939	Other	2022-03-30T11:11:49+00:00	PT34M12.784S	Оптимизации уровня CPU / Андрей Акиньшин (JetBrains)
+Other	https://kinescope.io/embed/201002941	Other	2022-03-30T11:11:49+00:00	PT48M22.657S	Как мы разрабатываем новый фронтенд Tinkoff.ru / Филипп Нехаев (Tinkoff.ru)
+Other	https://kinescope.io/embed/201002943	Other	2022-03-30T11:11:49+00:00	PT55M21.801S	Платежная система за год / Филипп Дельгядо (Информационные технологии и системы)
+Other	https://kinescope.io/embed/201002945	Other	2022-03-30T11:11:50+00:00	PT45M52.842S	О фреймворках / Роман Ивлиев (Банки.ру)
+Other	https://kinescope.io/embed/201002947	Other	2022-03-30T11:11:50+00:00	PT36M14.781S	Классические архитектуры во фронтенде / Александра Шинкевич (LOVATA)
+Other	https://kinescope.io/embed/201002951	Other	2022-03-30T11:11:50+00:00	PT59M21.988S	Чему мы научились, разрабатывая микросервисы? / Вадим Мадисон (М-Тех)
+Other	https://kinescope.io/embed/201002953	Other	2022-03-30T11:11:50+00:00	PT32M35.074S	Как не выстрелить себе в ногу из конечного автомата / Александр Сычев (RAMBLER&amp;Co)
+Other	https://kinescope.io/embed/201002957	Other	2022-03-30T11:11:50+00:00	PT36M30.478S	Тошнит от колец
+Other	https://kinescope.io/embed/201002971	Other	2022-03-30T11:11:51+00:00	PT39M10.905S	Архитектура поиска в Avito / Андрей Смирнов (Avito)
+Other	https://kinescope.io/embed/201002979	Other	2022-03-30T11:11:52+00:00	PT35M2.891S	Радости и гадости регрессионного тестирования вёрстки / Алексей Малейков (HTML Academy)
+Other	https://kinescope.io/embed/201002981	Other	2022-03-30T11:11:52+00:00	PT46M12.788S	Конструктор / Денис Паясь (Яндекс)
+Other	https://kinescope.io/embed/201002987	Other	2022-03-30T11:11:53+00:00	PT49M41.327S	Пишем тестируемый код / Евгений Мацюк (Kaspersky Lab)
+Other	https://kinescope.io/embed/201002991	Other	2022-03-30T11:11:53+00:00	PT50M53.959S	noBackend, или Как выжить в эпоху толстеющих клиентов / Николай Самохвалов
+Other	https://kinescope.io/embed/201002997	Other	2022-03-30T11:11:53+00:00	PT31M6.676S	Типографика в iOS / Ирина Дягилева (RAMBLER&amp;Co)
+Other	https://kinescope.io/embed/201002999	Other	2022-03-30T11:11:53+00:00	PT30M32.612S	Amazing threesome, rrr... React. Redux. Real world / Ростислав Галкин (Babo)
+Other	https://kinescope.io/embed/201003007	Other	2022-03-30T11:11:54+00:00	PT36M46.384S	Ангелы и демоны многопоточного программирования / Алексей Федоров (Одноклассники)
+Other	https://kinescope.io/embed/201003009	Other	2022-03-30T11:11:54+00:00	PT1H18M12.382S	Как на самом деле всё устроено в государстве / Герман Клименко (ИРИ)
+Other	https://kinescope.io/embed/201003013	Other	2022-03-30T11:11:54+00:00	PT27M7.255S	Успешный кейс использования React Native в продакшне / Евгений Федоров (LOOKBUCK)
+Other	https://kinescope.io/embed/201003027	Other	2022-03-30T11:11:55+00:00	PT45M1.503S	Опыт международных продаж видеостримера Flussonic / Максим Лапшин (Erlyvideo)
+Other	https://kinescope.io/embed/201003043	Other	2022-03-30T11:11:57+00:00	PT37M18.985S	Реализация бессерверного бэкенда мобильного приложения на базе AWS / К.Потехин, В.Сочинский
+Other	https://kinescope.io/embed/201003051	Other	2022-03-30T11:11:57+00:00	PT23M26.781S	Веб-разработка без наркотиков с помощью PostgreSQL, Nginx и c2h5oh / Миша Кириллов (CINEMOOD)
+Other	https://kinescope.io/embed/201003071	Other	2022-03-30T11:11:59+00:00	PT33M20.818S	Мифы обработки персональных данных и их безопасность / Станислав Ярошевский (ООО НЮС)
+Other	https://kinescope.io/embed/201003075	Other	2022-03-30T11:11:59+00:00	PT35M42.11S	ChatOps на практике. Организация работы команды сопровождения / Евгений Потапов (ITSumma)
+Other	https://kinescope.io/embed/201003077	Other	2022-03-30T11:11:59+00:00	PT39M11.23S	Принципы автоматического масштабирования приложения в AWS / Антон Регеда (Juno)
+Other	https://kinescope.io/embed/201003084	Other	2022-03-30T11:12:00+00:00	PT53M58.697S	Как сравнить и выбрать хостинг-провайдера / Игорь Мызгин (Servers.ru)
+Other	https://kinescope.io/embed/201003116	Other	2022-03-30T11:12:02+00:00	PT52M4.222S	Организация надежного резервного копирования веб-проекта / Антон Баранов (ITSumma)
+Other	https://kinescope.io/embed/201003118	Other	2022-03-30T11:12:02+00:00	PT41M49.311S	DC/OS — больше чем PaaS / Никита Борзых (Express 42)
+Other	https://kinescope.io/embed/201003136	Other	2022-03-30T11:12:03+00:00	PT58M47.576S	React
+Other	https://kinescope.io/embed/201003147	Other	2022-03-30T11:12:04+00:00	PT36M38.35S	Мой маленький уютный PaaS / Илья Беда (bro.agency)
+Other	https://kinescope.io/embed/201003159	Other	2022-03-30T11:12:05+00:00	PT36M26.995S	Event-based self-healing monitoring / Кирилл Сотников (Cognician)
+Other	https://kinescope.io/embed/201003175	Other	2022-03-30T11:12:06+00:00	PT43M30.109S	Библиотека UI компонентов, о которой вы всегда мечтали / Роберт Харитонов (Liberty Global)
+Other	https://kinescope.io/embed/201003179	Other	2022-03-30T11:12:06+00:00	PT17M46.47S	Построение моделей на примере продаж рекламы / Алексей Праслов (Avito)
+Other	https://kinescope.io/embed/201003198	Other	2022-03-30T11:12:48+00:00	PT43M47.454S	Как посчитать эффективность техпиара? / Михаил Клюев (Avito)
+Other	https://kinescope.io/embed/201003200	Other	2022-03-30T11:12:48+00:00	PT30M33.402S	Зачем мы участвуем в конференциях, и о чем хотим сказать публике / Иван Мирошниченко (Qrator Labs)
+Other	https://kinescope.io/embed/201003203	Other	2022-03-30T11:12:49+00:00	PT33M8.116S	Бренд, который строит себя сам / Евгения Голева (Lamoda)
+Other	https://kinescope.io/embed/201003207	Other	2022-03-30T11:12:49+00:00	PT41M2.244S	Специфика современных IT-сообществ  / Андрей Яманов (MoscowJS)
+Other	https://kinescope.io/embed/201003209	Other	2022-03-30T11:12:49+00:00	PT18M26.524S	Долгоиграющие истории вместо одноразовых анонсов мероприятий / Екатерина Горелова (Хабрахабр)
+Other	https://kinescope.io/embed/201003222	Other	2022-03-30T11:13:48+00:00	PT3M27.378S	Видеоотчет о Saint TeamLead Conf 2018
+Other	https://kinescope.io/embed/201003224	Other	2022-03-30T11:13:48+00:00	PT15M38.83S	Открытие Saint TeamLead Conf 2018
+Other	https://kinescope.io/embed/201003226	Other	2022-03-30T11:13:48+00:00	PT43M13.762S	Organisational Structure in Spotify / Yuliya Kurapatsenkava (Spotify)
+Other	https://kinescope.io/embed/201003228	Other	2022-03-30T11:13:48+00:00	PT56M50.803S	Как собирать метрики и стоит ли на них полагаться / Макс Богуславский (RnD)
+Other	https://kinescope.io/embed/201003231	Other	2022-03-30T11:13:49+00:00	PT46M35.729S	Оцениваем процессы в команде разработки на основе объективных данных / Сергей Семенов (GitLean)
+Other	https://kinescope.io/embed/201003233	Other	2022-03-30T11:13:49+00:00	PT43M38.329S	Как оценить эффективность команды / Алексей Катаев (Skyeng)
+Other	https://kinescope.io/embed/201003235	Other	2022-03-30T11:13:49+00:00	PT51M25.886S	Что мы (теперь) знаем об эффективности разработки / Игорь Луканин (Контур)
+Other	https://kinescope.io/embed/201003237	Other	2022-03-30T11:13:49+00:00	PT48M59.461S	Мотивация команды через майнинг игровой валюты / Евгений Ртищев (Сбербанк-Технологии)
+Other	https://kinescope.io/embed/201003239	Other	2022-03-30T11:13:49+00:00	PT49M26.22S	Разделение ответственности в IT-командах / Максим Цепков (mtsepkov.org)
+Other	https://kinescope.io/embed/201003241	Other	2022-03-30T11:13:49+00:00	PT58M37.429S	Круглый стол &quot;Как измерить программиста?&quot; / Георгий Могелашвили (Booking.com)
+Other	https://kinescope.io/embed/201003243	Other	2022-03-30T11:13:49+00:00	PT47M36.403S	Один в поле не воин. Путь до эффективной командной работы / Евгений Федореев (banki.ru)
+Other	https://kinescope.io/embed/201003245	Other	2022-03-30T11:13:50+00:00	PT48M34.894S	Как вырастить фичакоманду за 3 месяца / Антон Бевзюк (Додо Пицца)
+Other	https://kinescope.io/embed/201003247	Other	2022-03-30T11:13:50+00:00	PT52M5.128S	Теперь я - тимлид, но почему мне так плохо? Практические советы / Евгений Кот (Wrike)
+Other	https://kinescope.io/embed/201003249	Other	2022-03-30T11:13:50+00:00	PT46M2.362S	Планирование и организация исправления продакшн-багов / Тимур Павлов (Positive Technologies)
+Other	https://kinescope.io/embed/201003251	Other	2022-03-30T11:13:50+00:00	PT46M6.194S	Выходим из штопора. 2 проекта под угрозой закрытия из-за ошибок тимлидов / В. Фабриченко (Iponweb)
+Other	https://kinescope.io/embed/201003253	Other	2022-03-30T11:13:50+00:00	PT41M25.255S	Why should we care about diversity and inclusion in tech? / Yuliya Kurapatsenkava (Spotify)
+Other	https://kinescope.io/embed/201003255	Other	2022-03-30T11:13:50+00:00	PT38M23.792S	Техническая ипотека
+Other	https://kinescope.io/embed/201003257	Other	2022-03-30T11:13:50+00:00	PT52M14.485S	MVP тимлида
+Other	https://kinescope.io/embed/201003259	Other	2022-03-30T11:13:51+00:00	PT9H44M45.746S	Запись трансляции Saint TeamLead Conf 2018. 24 сент, зал &quot;Первый&quot;
+Other	https://kinescope.io/embed/201003261	Other	2022-03-30T11:13:51+00:00	PT8H54M24.297S	Запись трансляции Saint TeamLead Conf 2018. 24 сент, зал &quot;Второй&quot;
+Other	https://kinescope.io/embed/201003263	Other	2022-03-30T11:13:51+00:00	PT9H0M32.193S	Запись трансляции Saint TeamLead Conf 2018. 25 сент, зал &quot;Первый&quot;
+Other	https://kinescope.io/embed/201003265	Other	2022-03-30T11:13:51+00:00	PT9H2M34.4S	Запись трансляции Saint TeamLead Conf 2018. 25 сент, зал &quot;Второй&quot;
+Other	https://kinescope.io/embed/201003267	Other	2022-03-30T11:13:51+00:00	PT47M35.358S	Рост команды на порядок / Александр Поломодов (tinkoff.ru)
+Other	https://kinescope.io/embed/201003269	Other	2022-03-30T11:13:51+00:00	PT51M43.324S	Как управлять распределённой командой начинающих специалистов? / Сергей Попов (Лига А./HTML Academy)
+Other	https://kinescope.io/embed/201003271	Other	2022-03-30T11:13:51+00:00	PT52M38.087S	Пережить изменения с командой / Станислав Беляев
+Other	https://kinescope.io/embed/201003273	Other	2022-03-30T11:13:51+00:00	PT50M9.794S	Саморазвитие для руководителей разработки / Алексей Шаграев (Яндекс)
+Other	https://kinescope.io/embed/201003275	Other	2022-03-30T11:13:52+00:00	PT45M29.762S	Как каждые 4 месяца выпускать 7 связанных продуктов / Сергей Кукс (JetBrains)
+Other	https://kinescope.io/embed/201003277	Other	2022-03-30T11:13:52+00:00	PT52M56.792S	Роль тимлида в рекрутинге / Катерина Гаврилова (DigitalHR)
+Other	https://kinescope.io/embed/201003279	Other	2022-03-30T11:13:52+00:00	PT48M41.312S	Фантастические тимлиды и где они обитают / Анатолий Панов (Авито)
+Other	https://kinescope.io/embed/201003281	Other	2022-03-30T11:13:52+00:00	PT51M16.83S	Tinkoff.ru
+Other	https://kinescope.io/embed/201003283	Other	2022-03-30T11:13:52+00:00	PT47M50.949S	Додоверие. Ценности и принципы в компании Додо Пицца / Евгений Пешков (Додо Пицца)
+Other	https://kinescope.io/embed/201003285	Other	2022-03-30T11:13:52+00:00	PT40M45.258S	О вреде ярлыков с компетенциями / Владимир Романько (Лаборатория Касперского)
+Other	https://kinescope.io/embed/201003287	Other	2022-03-30T11:13:52+00:00	PT47M5.869S	Матрица компетенций как инструмент тимлида / Светлана Новикова и Константин Кафтан (Iponweb)
+Other	https://kinescope.io/embed/201003289	Other	2022-03-30T11:13:53+00:00	PT43M59.482S	Управление знаниями через модели компетенций / Максим Бабич (Кловери)
+Other	https://kinescope.io/embed/201003291	Other	2022-03-30T11:13:53+00:00	PT41M33.615S	Как организовывать Knowledge Sharing внутрь и наружу / Евгения Голева (Tech.Lamoda)
+Other	https://kinescope.io/embed/201003293	Other	2022-03-30T11:13:53+00:00	PT53M34.734S	Коммуникации как performance-зона работы тимлида / Александр Зиза (Алетейя Бизнес)
+Other	https://kinescope.io/embed/201003295	Other	2022-03-30T11:13:53+00:00	PT48M11.326S	Управление договоренностями / Стас Михальский (Biglion)
+Other	https://kinescope.io/embed/201003297	Other	2022-03-30T11:13:53+00:00	PT45M12.17S	Как вырасти из разработчика в тимлида и жить с этим дальше / Екатерина Евтухова (МойСклад)
+Other	https://kinescope.io/embed/201003307	Other	2022-03-30T11:14:48+00:00	PT50M42.72S	Масштабируем разработку
+Other	https://kinescope.io/embed/201003309	Other	2022-03-30T11:14:48+00:00	PT48M1.852S	Из закрытой касты в Servant Leader / Георгий Могелашвили (Booking.com)
+Other	https://kinescope.io/embed/201003311	Other	2022-03-30T11:14:48+00:00	PT48M46.086S	Кто такие тимлиды, и какова их реальная задача? / Никита Быков (Kodix)
+Other	https://kinescope.io/embed/201003313	Other	2022-03-30T11:14:48+00:00	PT46M26.093S	Как тимлиду выжить в масштабируемом скраме / Евгений Россинский (ivi)
+Other	https://kinescope.io/embed/201003318	Other	2022-03-30T11:14:49+00:00	PT44M1.433S	От падавана до магистра
+Other	https://kinescope.io/embed/201003320	Other	2022-03-30T11:14:49+00:00	PT44M43.763S	Управление большой распределенной командой / Алексей Катаев (Skyeng)
+Other	https://kinescope.io/embed/201003322	Other	2022-03-30T11:14:49+00:00	PT47M32.642S	Руководство на расстоянии
+Other	https://kinescope.io/embed/201003324	Other	2022-03-30T11:14:49+00:00	PT45M35.149S	8 стратагем тимлида / Артур Орлов (АвтоТрансИнфо)
+Other	https://kinescope.io/embed/201003326	Other	2022-03-30T11:14:49+00:00	PT47M38.191S	В поисках тимлида
+Other	https://kinescope.io/embed/201003328	Other	2022-03-30T11:14:49+00:00	PT42M38.7S	Как строить свой профессиональный путь - схемы самоопределения / Максим Цепков (mtsepkov.org)
+Other	https://kinescope.io/embed/201003330	Other	2022-03-30T11:14:50+00:00	PT44M23.863S	Настоящий тимлид
+Other	https://kinescope.io/embed/201003332	Other	2022-03-30T11:14:50+00:00	PT41M26.3S	Оцениваем разработчика на основе объективных данных / Александр Киселев, Сергей Семенов (GitLean)
+Other	https://kinescope.io/embed/201003334	Other	2022-03-30T11:14:50+00:00	PT54M33.271S	1000 и 1 фидбэк / Евгения Голева (Lamoda)
+Other	https://kinescope.io/embed/201003338	Other	2022-03-30T11:14:50+00:00	PT42M44.436S	&quot;Мы уходим всей командой...&quot; / Ольга Давыдова (ГК ЦФТ)
+Other	https://kinescope.io/embed/201003340	Other	2022-03-30T11:14:50+00:00	PT48M51.868S	Управление знаниями
+Other	https://kinescope.io/embed/201003342	Other	2022-03-30T11:14:50+00:00	PT47M29.089S	Строим команду с нуля. От телеги до спорткара. Руководство к действию / Андрей Гапанюк (Шате-М Плюс)
+Other	https://kinescope.io/embed/201003344	Other	2022-03-30T11:14:51+00:00	PT52M0.391S	Улучшая performance review / Егор Толстой (Avito)
+Other	https://kinescope.io/embed/201003346	Other	2022-03-30T11:14:51+00:00	PT29M25.367S	Понятный тимлид - это навык или искусство? / Анатолий Стояновский
+Other	https://kinescope.io/embed/201003348	Other	2022-03-30T11:14:51+00:00	PT47M23.168S	Забудь слово “ошибка” / Григорий Петров (Voximplant)
+Other	https://kinescope.io/embed/201003350	Other	2022-03-30T11:14:51+00:00	PT54M12.025S	Круглый стол &quot;Как мы растим тимлидов?&quot;
+Other	https://kinescope.io/embed/201003352	Other	2022-03-30T11:14:51+00:00	PT54M9.401S	Как с пользой проводить ретроспективы сложных проектов / Петр Марков (ЦИАН)
+Other	https://kinescope.io/embed/201003354	Other	2022-03-30T11:14:51+00:00	PT48M54.097S	Методы мотивации сотрудников. Способы выращивания сотрудников с нуля / Андрей Минкин  (Mad Devs)
+Other	https://kinescope.io/embed/201003356	Other	2022-03-30T11:14:52+00:00	PT48M6.798S	Оценка задач / Дмитрий Симонов
+Other	https://kinescope.io/embed/201003360	Other	2022-03-30T11:14:52+00:00	PT2M12.215S	Приглашение для спикеров на TeamLead Conf
+Other	https://kinescope.io/embed/201003363	Other	2022-03-30T11:15:04+00:00	PT56M40.48S	Антикризисный бизнес-разбор с Максимом Спиридоновым № 5
+Other	https://kinescope.io/embed/201003370	Other	2022-03-30T11:15:48+00:00	PT2M13.933S	Видеоотчёт о HighLoad++ 2017
+Other	https://kinescope.io/embed/201003372	Other	2022-03-30T11:15:48+00:00	PT35M40.184S	Знакомство с NGINX Unit / Валентин Бартенев, Игорь Сысоев (NGINX, Inc.)
+Other	https://kinescope.io/embed/201003374	Other	2022-03-30T11:15:48+00:00	PT52M20.43S	Что нового в nginx? / Максим Дунин (Nginx, Inc.)
+Other	https://kinescope.io/embed/201003376	Other	2022-03-30T11:15:48+00:00	PT57M55.424S	Хранилище данных Avito
+Other	https://kinescope.io/embed/201003379	Other	2022-03-30T11:15:49+00:00	PT57M57.63S	Найти себя в хаосе
+Other	https://kinescope.io/embed/201003381	Other	2022-03-30T11:15:49+00:00	PT52M51.661S	Четыре кейса парной разработки / Дмитрий Симонов (Setup.Ru)
+Other	https://kinescope.io/embed/201003383	Other	2022-03-30T11:15:49+00:00	PT54M47.946S	Искусство предсказания / Андрей Степанов (Delete Agency)
+Other	https://kinescope.io/embed/201003385	Other	2022-03-30T11:15:49+00:00	PT54M5.616S	Как убить технаря в руководителе / Александр Трофимов (Лаборатория Касперского)
+Other	https://kinescope.io/embed/201003387	Other	2022-03-30T11:15:49+00:00	PT1H1M46.788S	Почему оно не находится! / Андрей Аксенов (Sphinx)
+Other	https://kinescope.io/embed/201003389	Other	2022-03-30T11:15:49+00:00	PT54M6.87S	ElasticSearch и Heka
+Other	https://kinescope.io/embed/201003391	Other	2022-03-30T11:15:49+00:00	PT50M36.497S	Как мы поддерживаем 100 разных версий клиентов в Badoo / Ярослав Голуб (Badoo)
+Other	https://kinescope.io/embed/201003393	Other	2022-03-30T11:15:49+00:00	PT43M41.975S	Жизнь после шардинга / Михаил Курмаев (Badoo)
+Other	https://kinescope.io/embed/201003395	Other	2022-03-30T11:15:50+00:00	PT52M12.581S	Почему ivi перешел со Sphinx на Elasticsearch / Евгений Россинский (ivi)
+Other	https://kinescope.io/embed/201003397	Other	2022-03-30T11:15:50+00:00	PT46M58.624S	Контроль качества высоконагруженных систем / Андрей Дроздов (Avito)
+Other	https://kinescope.io/embed/201003399	Other	2022-03-30T11:15:50+00:00	PT58M34.271S	Как я был тимлидом, а теперь — руководитель направления / Виталий Шароватов (Badoo)
+Other	https://kinescope.io/embed/201003401	Other	2022-03-30T11:15:50+00:00	PT57M28.419S	Как переписать с нуля базу данных личных сообщений ВКонтакте / Дмитрий Егоров (ВКонтакте)
+Other	https://kinescope.io/embed/201003403	Other	2022-03-30T11:15:50+00:00	PT42M51.471S	Как писать сервис, поддержка которого не превращается в ад / А.Резников, И.Мунькин (Mail.Ru Group)
+Other	https://kinescope.io/embed/201003405	Other	2022-03-30T11:15:50+00:00	PT48M42.789S	Смерть от распродажи / Анатолий Пласковский (Яндекс.Деньги)
+Other	https://kinescope.io/embed/201003407	Other	2022-03-30T11:15:51+00:00	PT59M30.347S	Как построить хороший performance review
+Other	https://kinescope.io/embed/201003409	Other	2022-03-30T11:15:51+00:00	PT45M34.986S	Блокчейн. Lego для интересующихся / Александр Боргардт (GolosCore)
+Other	https://kinescope.io/embed/201003411	Other	2022-03-30T11:15:51+00:00	PT1H2M20.224S	Реконструкция YouTube.com - переписывая второй по популярности сайт в мире / Михаил Сычёв
+Other	https://kinescope.io/embed/201003413	Other	2022-03-30T11:15:51+00:00	PT50M28.301S	Сопротивление в работе команды / Александр Зиза (Алетейя Бизнес)
+Other	https://kinescope.io/embed/201003415	Other	2022-03-30T11:15:51+00:00	PT58M30.974S	Эффективное использование ClickHouse / Алексей Миловидов (Яндекс)
+Other	https://kinescope.io/embed/201003417	Other	2022-03-30T11:15:51+00:00	PT52M41.769S	Голосовой помощник Алиса / Анатолий Старостин, Николай Любимов(Яндекс)
+Other	https://kinescope.io/embed/201003419	Other	2022-03-30T11:15:51+00:00	PT43M25.372S	Lua в нагруженных телеком-системах / Дмитрий Борисов
+Other	https://kinescope.io/embed/201003421	Other	2022-03-30T11:15:52+00:00	PT48M12.417S	Джентльменский набор сисадмина / Антон Турецкий (Badoo)
+Other	https://kinescope.io/embed/201003423	Other	2022-03-30T11:15:52+00:00	PT51M6.381S	Metrics are Not Enough
+Other	https://kinescope.io/embed/201003425	Other	2022-03-30T11:15:52+00:00	PT45M55.698S	Мониторинг облачной CI-системы на примере Jenkins / Александр Акбашев (HERE Technologies)
+Other	https://kinescope.io/embed/201003427	Other	2022-03-30T11:15:52+00:00	PT58M21.291S	Zabbix
+Other	https://kinescope.io/embed/201003429	Other	2022-03-30T11:15:52+00:00	PT39M4.357S	Переосмысливая подход к инфраструктурному коду / Евгений Пивень (IPONWEB)
+Other	https://kinescope.io/embed/201003431	Other	2022-03-30T11:15:52+00:00	PT58M41.632S	SOA
+Other	https://kinescope.io/embed/201003433	Other	2022-03-30T11:15:52+00:00	PT53M28.812S	Дешевле, надежнее, проще / Александр Христофоров (Одноклассники)
+Other	https://kinescope.io/embed/201003435	Other	2022-03-30T11:15:53+00:00	PT1H0M9.635S	Пишем свой протокол поверх UDP / Александр Тоболь (Одноклассники)
+Other	https://kinescope.io/embed/201003437	Other	2022-03-30T11:15:53+00:00	PT47M44.995S	Не так страшен терабит / Вячеслав Ольховченков (Integros)
+Other	https://kinescope.io/embed/201003439	Other	2022-03-30T11:15:53+00:00	PT1H0M2.46S	Развитие баз данных в Dropbox / Слава Бахмутов (Dropbox)
+Other	https://kinescope.io/embed/201003441	Other	2022-03-30T11:15:53+00:00	PT50M20.545S	Позвольте представить
+Other	https://kinescope.io/embed/201003443	Other	2022-03-30T11:15:53+00:00	PT50M35.824S	Как и зачем создавать NginX-модуль — теория, практика, профит. Часть 2 / Василий Сошников (Mail.Ru)
+Other	https://kinescope.io/embed/201003445	Other	2022-03-30T11:15:53+00:00	PT56M15.903S	Реактивные микросервисы с Apache Kafka / Денис Иванов (2ГИС)
+Other	https://kinescope.io/embed/201003447	Other	2022-03-30T11:15:53+00:00	PT52M53.054S	Микросервисный фронтенд / Вячеслав Слинько (ЦИАН)
+Other	https://kinescope.io/embed/201003449	Other	2022-03-30T11:15:54+00:00	PT55M18.248S	Введение в блокчейн и алгоритмы консенсуса / Филипп Филиппак (Waves Platform)
+Other	https://kinescope.io/embed/201003451	Other	2022-03-30T11:15:54+00:00	PT47M59.693S	Метаданные для кластера
+Other	https://kinescope.io/embed/201003453	Other	2022-03-30T11:15:54+00:00	PT51M13.649S	Как создать дата-платформу с нуля / Павел Тарасов (ЦИАН)
