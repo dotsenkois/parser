@@ -7,11 +7,12 @@ from bs4 import BeautifulSoup
 import csv
 import re
 import os.path
+import json
 
 # файл для записи номера последней успешнообработаной страницы
 log_file = '/home/dotsenkois/log.txt'
 #Начальная страница для интервала опроса по-умолчанию
-first_page = 201003445
+first_page = 201383976 
 
 # Если существует файл лога, то номер первой страницы вычитывается из него
 if os.path.exists(log_file):
@@ -30,7 +31,6 @@ export_filename = f'/home/dotsenkois/export.csv'
 base_url = "https://kinescope.io/embed/"
 
 # Формируем шаблон словаря для экспорта в csv
-
 export = {
     'provider': '',
     'URL': '',
@@ -39,6 +39,7 @@ export = {
     'webinar_duration': '',
     'webinare_title': '',
     }
+
 # Проверяем наличе файла для экспорта. Если отсуствует, то создаем
 if not os.path.exists(export_filename):
     with open(export_filename, 'a', encoding='utf-8') as f:
@@ -61,43 +62,43 @@ for page in pages:
         soup = BeautifulSoup(response.text, 'lxml')
         # ищем тег для обработки. Информация берется только из него
         tag_script = soup.find('script', {'type': 'application/ld+json'})
-        # продолжаем обработку, если tag_script содержит данные
-        if tag_script != None:
-            # Преобразуем теккстовые данные
-            description = str(tag_script.contents[0]).replace('\n','').replace('{','').replace('}','').lstrip()
-            # Преобразуем, строку в список
-            results = description.split(',  ')
-            # преобразуем список в словарь
-            for result in results:
-                a = result.split(': ')
-                # Проверяем на корректность разделения строки на 2 элемента
-                if len(a)>1:
-                    tmp_dict.setdefault((a[0].rstrip()).lstrip().replace('"',''), (a[1].rstrip()).lstrip().replace('"',''))
-                # else:
-                #     tmp_dict.setdefault((a[0].rstrip()).lstrip().replace('"',''), (a[0].rstrip()).lstrip().replace('"',''))
+        if tag_script:
+            tag_script = tag_script.text.replace('\n', '').replace('\r', '').replace('\t', '').replace('&quot;','').replace('\\','')
+            loadedjson =json.loads(tag_script)
+            # продолжаем обработку, если tag_script содержит данные
+            if loadedjson:
+                # Значение переменные provider и course по-умолчанию
+                provider = 'Other'
+                course = 'Other'
+                # проверяем на соотвествие названия вебинара шаблону
+                regexp_1 = re.match(r'^[(]?[^0-9]*[-_][a-zA-Z]?[a-zA-Z]?[-_]?\d{1,2}[)]?\b', loadedjson['name'])
+                regexp_2 = re.match(r'^\d{4}[-]\d{2}[-]\d{2}[_]{1,2}[a-zA-Z]{2,7}[_]{1,2}\d{1,2}', loadedjson['name'] )
 
-            # проверяем на соотвествие названия вебинара шаблону
-            m = re.findall(r'^\w*[-]\d\d?', tmp_dict['name'] )
-            # Значение переменные provider и course по-умолчанию
-            provider = 'Other'
-            course = 'Other'
-            # Если есть совпаденеи с маской, то менем значение переменыех
-            if m:
-                provider = 'Netology'
-                course = m[0]
-            # формируем словарь для экспорт в csv
-            export = {
-                'provider': provider,
-                'URL': url,
-                'course': course,
-                'webinar_date': tmp_dict['uploadDate'],
-                'webinar_duration': tmp_dict['duration'],
-                'webinare_title': tmp_dict['name'],
-                }
-            # Дозаписываем данные в файл
-            with open(export_filename, 'a', encoding='utf-8') as f:
-                w = csv.DictWriter(f, export.keys(),delimiter='\t')
-                w.writerow(export)
-            # Записываем номер последней успешнообработанной страницы
-            with open(log_file, 'w') as log:
-                log.write(str(page))
+                # Если есть совпаденеи с маской, то менем значение переменных
+                if regexp_1:
+                    m = regexp_1.group()
+                    provider = 'Netology'
+                    course = m.replace('(','').replace(')','').replace('_','-')
+                    regexp_1 = ''
+                elif regexp_2:
+                    m = regexp_2.group()
+                    provider = 'Netology'
+                    course = m[10:].lstrip('_').replace('_','-')
+                    regexp_2 = ''
+
+                # формируем словарь для экспорт в csv
+                export = {
+                    'provider': provider,
+                    'URL': url,
+                    'course': course,
+                    'webinar_date': loadedjson['uploadDate'],
+                    'webinar_duration': loadedjson['duration'],
+                    'webinare_title': loadedjson['name'],
+                    }
+                # Дозаписываем данные в файл
+                with open(export_filename, 'a', encoding='utf-8') as f:
+                    w = csv.DictWriter(f, export.keys(),delimiter='\t')
+                    w.writerow(export)
+                # Записываем номер последней успешнообработанной страницы
+                with open(log_file, 'w') as log:
+                    log.write(str(page))
